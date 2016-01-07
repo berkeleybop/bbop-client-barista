@@ -1,6 +1,6 @@
 {
     "name": "bbop-client-barista",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "license": "BSD-3-Clause",
     "description": "Manager for handling per-model client-to-client and server-to-client communication via Barista.",
     "keywords": [
