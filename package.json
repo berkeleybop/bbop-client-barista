@@ -28,7 +28,7 @@
     },
     "dependencies": {
         "bbop-core": "0.0.5",
-        "bbop-registry": "0.0.2",
+        "bbop-registry": "0.0.3",
         "socket.io-client": "0.9.16",
         "underscore": "1.8.3"
     },
